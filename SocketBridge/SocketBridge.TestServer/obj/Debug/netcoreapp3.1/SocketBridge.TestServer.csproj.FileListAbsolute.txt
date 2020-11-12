@@ -1,0 +1,11 @@
+D:\Home\git\socket-bridge\SocketBridge\SocketBridge.TestServer\bin\Debug\netcoreapp3.1\SocketBridge.TestServer.exe
+D:\Home\git\socket-bridge\SocketBridge\SocketBridge.TestServer\bin\Debug\netcoreapp3.1\SocketBridge.TestServer.deps.json
+D:\Home\git\socket-bridge\SocketBridge\SocketBridge.TestServer\bin\Debug\netcoreapp3.1\SocketBridge.TestServer.runtimeconfig.json
+D:\Home\git\socket-bridge\SocketBridge\SocketBridge.TestServer\bin\Debug\netcoreapp3.1\SocketBridge.TestServer.runtimeconfig.dev.json
+D:\Home\git\socket-bridge\SocketBridge\SocketBridge.TestServer\bin\Debug\netcoreapp3.1\SocketBridge.TestServer.dll
+D:\Home\git\socket-bridge\SocketBridge\SocketBridge.TestServer\bin\Debug\netcoreapp3.1\SocketBridge.TestServer.pdb
+D:\Home\git\socket-bridge\SocketBridge\SocketBridge.TestServer\obj\Debug\netcoreapp3.1\SocketBridge.TestServer.csprojAssemblyReference.cache
+D:\Home\git\socket-bridge\SocketBridge\SocketBridge.TestServer\obj\Debug\netcoreapp3.1\SocketBridge.TestServer.AssemblyInfoInputs.cache
+D:\Home\git\socket-bridge\SocketBridge\SocketBridge.TestServer\obj\Debug\netcoreapp3.1\SocketBridge.TestServer.AssemblyInfo.cs
+D:\Home\git\socket-bridge\SocketBridge\SocketBridge.TestServer\obj\Debug\netcoreapp3.1\SocketBridge.TestServer.dll
+D:\Home\git\socket-bridge\SocketBridge\SocketBridge.TestServer\obj\Debug\netcoreapp3.1\SocketBridge.TestServer.pdb
