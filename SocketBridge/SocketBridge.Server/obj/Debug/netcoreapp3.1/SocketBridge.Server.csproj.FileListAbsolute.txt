@@ -1,0 +1,8 @@
+D:\Home\git\socket-bridge\SocketBridge\SocketBridge.Server\bin\Debug\netcoreapp3.1\SocketBridge.Server.deps.json
+D:\Home\git\socket-bridge\SocketBridge\SocketBridge.Server\bin\Debug\netcoreapp3.1\SocketBridge.Server.dll
+D:\Home\git\socket-bridge\SocketBridge\SocketBridge.Server\bin\Debug\netcoreapp3.1\SocketBridge.Server.pdb
+D:\Home\git\socket-bridge\SocketBridge\SocketBridge.Server\obj\Debug\netcoreapp3.1\SocketBridge.Server.csprojAssemblyReference.cache
+D:\Home\git\socket-bridge\SocketBridge\SocketBridge.Server\obj\Debug\netcoreapp3.1\SocketBridge.Server.AssemblyInfoInputs.cache
+D:\Home\git\socket-bridge\SocketBridge\SocketBridge.Server\obj\Debug\netcoreapp3.1\SocketBridge.Server.AssemblyInfo.cs
+D:\Home\git\socket-bridge\SocketBridge\SocketBridge.Server\obj\Debug\netcoreapp3.1\SocketBridge.Server.dll
+D:\Home\git\socket-bridge\SocketBridge\SocketBridge.Server\obj\Debug\netcoreapp3.1\SocketBridge.Server.pdb
